@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [Drisyagiri.com.np](Drisyagiri.com.np)
+- 👨‍💻 Portfolio  [Drisyagiri.com.np]([Drisyagiri.com.np](https://drisyagiri.vercel.app))
 
 - 📫 How to reach me **drisyagiri6@gmail.com**
 
